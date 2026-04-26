@@ -1,0 +1,5 @@
+model_edge,faf5_corridor,faf5_weekly_flow_t,model_capacity_t_wk,model_pct_of_actual,transit_days_actual,model_transit_steps,notes
+e007 (stor_id→proc_west),Idaho→LA+Seattle composite,38900,300,0.77,1.9,2,Primary processing corridor; model is sub-regional slice
+e011 (stor_id→proc_east),Idaho→Chicago+NYC,15385,140,0.91,3.7,4,Secondary eastern corridor
+e001 (farm_id→stor_id),Intra-Idaho (farm to storage),55000,280,0.51,0.5,1,Short-haul from farm to regional cold storage
+wh_east→ret_east,Mid-Atlantic→NYC distribution,25000,300,1.2,0.9,1,Last-mile distribution; model slightly above FAF5 at this granularity

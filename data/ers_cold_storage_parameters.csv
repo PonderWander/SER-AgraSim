@@ -1,0 +1,9 @@
+parameter,value,unit,applies_to,source
+optimal_storage_temp_C,7–10,°C,Long-term bulk cold storage,"USDA ARS Agric. Handbook 66 (2016), pp. 453-461"
+max_storage_duration_months,5–8,months,Table-stock potatoes at 4–10°C,"USDA ARS Agric. Handbook 66, Table 1"
+transit_temp_spec_C,4–10,°C,Refrigerated truck/rail transit,USDA AMS PACA Good Delivery Guidelines
+max_transit_days_acceptable,14,days,Potatoes: acceptable quality on arrival,USDA AMS PACA Good Delivery Guidelines
+warm_storage_shelf_life_weeks,2–3,weeks,Ambient/room temperature retail storage,USDA ARS Agric. Handbook 66; model: 8 steps at warm rate
+cold_storage_shelf_life_weeks,20–35,weeks,Cold storage facility (7–10°C),USDA ARS Agric. Handbook 66; model: ~22 steps at cold rate
+model_warm_near_expiry_rate,0.28,fraction/step,"near_expiry→spoiled rate, non-refrigerated node",Derived: places unit in near_expiry after 8 steps
+model_cold_slowdown_factor,0.35,multiplier on all aging rates,Cold storage nodes (cold_storage_capacity > 0),Derived: cold extends shelf-life ~3× vs ambient

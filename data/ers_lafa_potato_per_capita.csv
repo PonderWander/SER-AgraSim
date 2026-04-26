@@ -1,0 +1,5 @@
+category,kg_per_capita_per_year,pct_loss_at_retail,pct_loss_at_consumer,notes,total_kg_per_capita,source,url
+Fresh potatoes,20.0,8.0,5.0,"ERS LAFA table, 2022 availability estimate",20.0,"USDA ERS Food Availability (Per Capita) Data System, 2022",https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/
+Frozen potato products,21.8,2.0,3.0,"ERS LAFA table, includes french fries, hash browns",21.8,"USDA ERS Food Availability (Per Capita) Data System, 2022",https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/
+Chips and dehydrated,11.9,3.0,2.0,"ERS LAFA table, snack chips + dehydrated flakes",11.9,"USDA ERS Food Availability (Per Capita) Data System, 2022",https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/
+Canned potatoes,0.4,2.0,5.0,"ERS LAFA table, minor category",0.4,"USDA ERS Food Availability (Per Capita) Data System, 2022",https://www.ers.usda.gov/data-products/food-availability-per-capita-data-system/

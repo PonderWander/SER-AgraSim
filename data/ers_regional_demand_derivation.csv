@@ -1,0 +1,5 @@
+region,model_node,states,population_million,notes,annual_demand_tonnes,weekly_demand_tonnes,model_demand_tonnes_wk,model_pct_of_derived,source
+West Coast,ret_west,"CA+OR+WA+NV (metro catchment, not full states)",21.5,LA+SF+Seattle metro areas,639732.4999999999,12302.5,230.0,1.9,ERS LAFA 2022 + US Census 2023 population estimates
+Mountain,ret_mountain,CO+UT+ID+MT+WY+NM,9.8,Denver+SLC+Boise metros,291599.0,5607.7,105.0,1.9,ERS LAFA 2022 + US Census 2023 population estimates
+Midwest,ret_midwest,IL+MN+MO+KS+IA+NE+WI,17.9,Chicago+Minneapolis+KC metros,532614.5,10242.6,190.0,1.9,ERS LAFA 2022 + US Census 2023 population estimates
+East/Atlantic,ret_east,NY+PA+MA+NJ+CT+RI+MD+DE,28.2,NYC+Boston+Philadelphia metros,839090.9999999999,16136.4,295.0,1.8,ERS LAFA 2022 + US Census 2023 population estimates

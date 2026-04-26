@@ -1,0 +1,5 @@
+state,model_node,production_tonnes_2023,actual_weekly_avg_t,model_peak_weekly_t,model_pct_of_actual,source
+Idaho,farm_id,6685.9,128.6,300.0,233.28,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)"
+Washington,farm_wa,2823.6,54.3,195.0,359.12,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)"
+Oregon,farm_or,838.2,16.1,135.0,838.51,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)"
+Colorado,farm_co,735.9,14.2,90.0,633.8,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)"

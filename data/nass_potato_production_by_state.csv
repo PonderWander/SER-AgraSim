@@ -1,0 +1,11 @@
+state,model_node,area_harvested_thou_acres_2022,area_harvested_thou_acres_2023,area_harvested_thou_acres_2024,yield_cwt_per_acre_2022,yield_cwt_per_acre_2023,yield_cwt_per_acre_2024,production_thou_cwt_2022,production_thou_cwt_2023,production_thou_cwt_2024,production_tonnes_2023,weekly_avg_tonnes_2023,source,url
+Idaho,farm_id,340,335,335,450,440,445,153000,147400,149075,6685.9,128.6,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+Washington,farm_wa,155,150,148,420,415,418,65100,62250,61864,2823.6,54.3,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+Oregon,farm_or,55,56,55,335,330,332,18425,18480,18260,838.2,16.1,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+Colorado,farm_co,55,55,55,300,295,298,16500,16225,16390,735.9,14.2,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+North Dakota,,160,155,152,265,265,268,42400,41075,40736,1863.1,35.8,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+Wisconsin,,78,75,73,288,286,290,22464,21450,21170,973.0,18.7,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+Minnesota,,77,76,74,285,283,288,21945,21508,21312,975.6,18.8,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+Michigan,,52,50,50,310,305,308,16120,15250,15400,691.7,13.3,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+California,,54,51,49,380,370,375,20520,18870,18375,855.9,16.5,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
+Maine,,56,55,53,280,275,278,15680,15125,14734,686.1,13.2,"USDA NASS Potatoes 2024 Summary, Table 1 (January 2025)",https://usda.library.cornell.edu/concern/publications/fx719m14m
