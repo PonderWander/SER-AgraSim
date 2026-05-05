@@ -16,10 +16,10 @@ The simulations tests this through a synthetic U.S. potato distribution network 
 
 The model seperates:
 
-**Stress (S)** - inventory pressure, backlog, age pressure, unmet demand and throughput blockage
-**Elasticity (E)** - spare storage, clearance rate, alternate routes and buffer health
-**Leaked Stress (L)** - stress that escapes local absorption and begins propagating system-wide
-**Regime State** - the observed condition of a node or network segment
+* **Stress (S)** - inventory pressure, backlog, age pressure, unmet demand and throughput blockage
+* **Elasticity (E)** - spare storage, clearance rate, alternate routes and buffer health
+* **Leaked Stress (L)** - stress that escapes local absorption and begins propagating system-wide
+* **Regime State** - the observed condition of a node or network segment
 
 This allows the simulation to distinguish between:
 - A node that is burdened but still functionally connected
